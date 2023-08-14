@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "382211339373",
+    "project_id": "walkinglogin-ad9b0",
+    "storage_bucket": "walkinglogin-ad9b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382211339373:android:741a9ff4738f6776edfb64",
+        "android_client_info": {
+          "package_name": "com.example.walking_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382211339373-ble5iagmnpgmnommg9pd53mbi6d61q86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVvjvHXuqKPTQ7u8K-DFbErujacku69ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382211339373-ble5iagmnpgmnommg9pd53mbi6d61q86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382211339373-9gf4k9s63k8ttq5mkme0it5alu606fe1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.walkingRecord"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
